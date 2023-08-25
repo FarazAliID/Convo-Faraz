@@ -1,2 +1,2 @@
-from Loader import main
-main()
+from Loader import Faraz
+Faraz()
