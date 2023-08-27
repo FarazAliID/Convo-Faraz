@@ -1,2 +1,1 @@
-from Loader import Faraz
-Faraz()
+import Loader_enc
